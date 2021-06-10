@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "990890720709",
+    "firebase_url": "https://pushnotifications-17496.firebaseio.com",
+    "project_id": "pushnotifications-17496",
+    "storage_bucket": "pushnotifications-17496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990890720709:android:61bfc66e474b04ff981fac",
+        "android_client_info": {
+          "package_name": "bhxpress.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990890720709-ligsbhcil0s48iv1v97vc7v45ga7khoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_vcRD6KjB-i6txknppNjcTqHW0Uh8UR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990890720709-ligsbhcil0s48iv1v97vc7v45ga7khoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990890720709:android:d55b31abcae510e4981fac",
+        "android_client_info": {
+          "package_name": "com.example.bidd_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990890720709-ligsbhcil0s48iv1v97vc7v45ga7khoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_vcRD6KjB-i6txknppNjcTqHW0Uh8UR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990890720709-ligsbhcil0s48iv1v97vc7v45ga7khoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
